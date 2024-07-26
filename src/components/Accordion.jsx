@@ -18,9 +18,9 @@ function Accordion() {
         <div
           key={index}
           onClick={() => handleActiveIndex(index)}
-          className="faq"
+          className="faq mb-2"
         >
-          <div className="title d-flex justify-content-between align-items-center">
+          <div className="title d-flex justify-content-between align-items-center px-5 py-3">
             <h1>{item.question}</h1>
             {activeIndex === index ? (
               <div className="fa-solid fa-minus"></div>
@@ -28,7 +28,7 @@ function Accordion() {
               <div className="fa-solid fa-plus"></div>
             )}
           </div>
-          <div className={`content ${activeIndex === index ? "show" : ""}`}>
+          <div className={`px-5 py-1 content ${activeIndex === index ? "show" : ""}`}>
             <p>{item.answer}</p>
           </div>
         </div>
