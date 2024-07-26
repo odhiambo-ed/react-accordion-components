@@ -20,8 +20,8 @@ function Accordion() {
           onClick={() => handleActiveIndex(index)}
           className="faq"
         >
-          <div className="title">
-            <h4>{item.question}</h4>
+          <div className="title d-flex gap-2 align-items-center">
+            <h5>{item.question}</h5>
             {activeIndex === index ? (
               <div className="fa-solid fa-minus"></div>
             ) : (
