@@ -15,12 +15,20 @@ function Accordion() {
   return (
     <div className="accordion d-flex flex-column justify-content-center align-item-center">
       {faqData.map((item, index) => (
-        <div key={index} onClick={handleActiveIndex} className="faq">
+        <div
+          key={index}
+          onClick={() => handleActiveIndex(index)}
+          className="faq"
+        >
           <div className="title">
             <h4>{item.question}</h4>
-            <div className="fa-solid fa-plus"></div>
+            {activeIndex === index ? (
+              <div className="fa-solid fa-minus"></div>
+            ) : (
+              <div className="fa-solid fa-plus"></div>
+            )}
           </div>
-          <div className="content">
+          <div className={`content ${activeIndex === index ? "show" : ""}`}>
             <p>{item.answer}</p>
           </div>
         </div>
