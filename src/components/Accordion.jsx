@@ -1,5 +1,6 @@
 import React from 'react'
 import faqData from '../assets/data'
+import './Accordion.css'
 
 function Accordion() {
   return (
