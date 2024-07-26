@@ -8,7 +8,8 @@ function Accordion() {
       {faqData.map((item, index) => 
         <div className="faq">
           <div className="title">
-            <h4>{ item.question }</h4>
+            <h4>{item.question}</h4>
+            <div className="fa-solid fa-plus"></div>
           </div>
           <div className="content">
             <p>{ item.answer }</p>
