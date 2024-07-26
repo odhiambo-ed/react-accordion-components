@@ -1,9 +1,10 @@
+import Accordion from './components/Accordion';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Jesus did it again</h1>
+      <Accordion />
     </div>
   );
 }
