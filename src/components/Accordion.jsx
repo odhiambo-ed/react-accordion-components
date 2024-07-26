@@ -21,7 +21,7 @@ function Accordion() {
           className="faq"
         >
           <div className="title d-flex gap-2 align-items-center">
-            <h5>{item.question}</h5>
+            <h1>{item.question}</h1>
             {activeIndex === index ? (
               <div className="fa-solid fa-minus"></div>
             ) : (
