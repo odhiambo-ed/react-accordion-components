@@ -1,8 +1,9 @@
 import React from 'react'
+import faqData from '../assets/data'
 
 function Accordion() {
   return (
-    <div>Accordion</div>
+    <div>Jesus is still doing it</div>
   )
 }
 
