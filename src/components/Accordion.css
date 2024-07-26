@@ -3,6 +3,10 @@
     margin: 10px auto;
 }
 
+.title h1 {
+    font-size: 1.1rem;
+}
+
 .content {
     max-height: 0;
     overflow: hidden;
