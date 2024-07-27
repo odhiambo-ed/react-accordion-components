@@ -1,6 +1,6 @@
 ## Sneak Peek
 
-![Preview](src/assets/images)
+![Preview](src/assets/images/accordion.gif)
 
 # Accordion Component
 
