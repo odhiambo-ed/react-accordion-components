@@ -18,7 +18,12 @@
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor)
 ![Bootsrap](https://icongr.am/devicon/bootstrap-plain.svg?size=80&color=3908e7)
 ![Bootsrap](https://icongr.am/devicon/javascript-plain.svg?size=80&color=3908e7)
-![React](https://icongr.am/devicon/react-plain.svg?size=80&color=currentColor)
+
+## Features
+
+- Expandable and collapsible sections
+- Pure React state management
+- Bootstrap styling for a professional look
 
 ## Get Started
 
