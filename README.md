@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+## Sneak Peek
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Preview](src/assets/images)
 
-## Available Scripts
+# Accordion Component
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+> This project is a simple React application that demonstrates a simple accordion using Bootstrap for styling and pure React for functionality.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo Link
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Project Link](https://github.com/odhiambo-ed/react-accordion-components.git)
 
-### `npm test`
+## Built With
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor)
+![Bootsrap](https://icongr.am/devicon/bootstrap-plain.svg?size=80&color=3908e7)
+![Bootsrap](https://icongr.am/devicon/javascript-plain.svg?size=80&color=3908e7)
+![React](https://icongr.am/devicon/react-plain.svg?size=80&color=currentColor)
 
-### `npm run build`
+## Get Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Run
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+To get a clone of the project, run `https://github.com/odhiambo-ed/react-accordion-components.git`
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+cd /react-accordion-components
+```
 
-### `npm run eject`
+```
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Author(s)
 
-## Learn More
+  <a href="https://github.com/odhiambo-ed" target="blank"><img align="center"
+        src="https://github.com/white3d/GitHub-User-Content/blob/main/Passport_Ed-M.png"
+        alt="Edward" height="80" width="80"/></a>   **Edward Odhiambo**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- GitHub: [@whit3d](https://github.com/odhiambo-ed)
+- Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo/)
+- Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
 
-### Code Splitting
+Contributions, issues, and feature requests are welcome!!!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feel free to check the [issues page]https://github.com/odhiambo-ed/react-accordion-components/issues)
 
-### Analyzing the Bundle Size
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Give a ⭐️ if you like this project!
 
-### Making a Progressive Web App
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Hat tip to anyone whose code was used
+- Special thanks to [React](https://react.dev/) for the amazing vanilla JavaScript framework project. I am grateful for your talent and generosity in sharing your work with the community.
 
-### Advanced Configuration
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This project is [MIT](https://github.com/white3d/GitHub-User-Content/blob/main/LICENSE) licensed.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
